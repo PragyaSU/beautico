@@ -1,0 +1,2 @@
+# beautico
+Staticbeauty
